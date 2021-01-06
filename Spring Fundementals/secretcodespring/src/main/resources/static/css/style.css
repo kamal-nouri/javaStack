@@ -1,0 +1,11 @@
+div{
+    text-align: center;
+    margin-top: 150px;
+}
+p{
+    color: darkred;
+}
+input{
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px black;
+}

@@ -1,0 +1,47 @@
+.form{
+    height: 130px;
+    width: 200px;
+    border: 2px solid black;
+    padding: 10px;
+    text-align: center;
+}
+.main{
+    display: flex;
+    justify-content: space-between;
+    margin: 30px 200px;
+}
+.gold{
+    display: flex;
+    margin: 20px 0px 10px 200px;
+}
+.gold p{
+    height: 15px;
+    width: 100px;
+    border: 2px solid black;
+    padding: 5px;
+    margin: 0px;
+}
+.gold label{
+    margin-top: 5px;
+    margin-right: 10px;
+}
+.activites{
+    margin: 20px 200px;
+}
+.scroll{
+    height: 100px;
+    border: 2px solid black;
+    overflow: auto;
+}
+.green{
+    color: green;
+}
+
+.destroy button{
+    padding: 2px;
+    float: right;
+    margin: 5px;
+}
+span{
+    color: red;
+}
