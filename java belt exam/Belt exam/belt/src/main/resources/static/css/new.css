@@ -1,0 +1,16 @@
+
+#main {
+    margin-left: 300px;
+    margin-top: 150px;
+
+}
+.but{
+    text-decoration: none;
+    border: 1px solid black;
+    background-color: #8080808a;
+    float: right;
+    border-radius: 3px;
+    margin-top: 28px;
+    margin-right: 10px;
+
+}

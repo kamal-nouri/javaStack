@@ -1,0 +1,20 @@
+main{
+    display: flex;
+    justify-content: space-around;
+}
+input#location {
+    margin-left: 163px;
+    width: 106px;
+}
+p {
+    display: flex;
+    justify-content: space-between;
+}
+.login {
+    padding: 27px;
+    width: 284px;
+}
+form#user {
+    padding: 8px;
+    width: 394px;
+}

@@ -1,0 +1,17 @@
+table ,td , th{
+    border: 1px solid black;
+    width: 700px;
+    text-align: center;
+}
+div.main{
+    margin-left: 300px;
+    margin-top: 250px;
+
+}
+.cen{
+    display: flex;
+    margin: 10px;
+}
+form{
+    display: inline-block;
+}
